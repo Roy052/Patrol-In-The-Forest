@@ -36,7 +36,7 @@
   <div>
     <h2> What I can fix </h2>
       Too few interaction elements.<br><br>
-      Tough Dialogue System.(Not smooth)
+      Tough dialogue system.(Not smooth)
    <h2> Design Picture </h2>
    <table>
         <td><img src = "https://postfiles.pstatic.net/MjAyMjA1MDVfNzMg/MDAxNjUxNzMzMDU0NDQw.5znUwtLycsFQO_vuuTp3DFwxDb1FQHIYm-J4GlzekBog.CNo5FN8B76J8JZQyklC21zSIwE6h4EFcgOZJ5LRYBAsg.JPEG.tdj04131/KakaoTalk_20220505_154310321.jpg?type=w773" height = 500></td>
