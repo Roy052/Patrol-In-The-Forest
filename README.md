@@ -30,10 +30,16 @@
   <div>
     <h2> What I learned </h2>
       I made Dialogue System and Task System<br><br>
-      To make them, I learned about coroutine.
+      To make them, I learned about coroutine.<br><br>
+      And I learned about animations.(Animator and Animation)
   </div>
   <div>
     <h2> What I can fix </h2>
-      Natural Animation.
-      More things to scare
+      Too few interactiion elements.<br><br>
+      Tough Dialogue System.(Not smooth)
+   <h2> Design Picture </h2>
+   <table>
+        <td><img src = "https://postfiles.pstatic.net/MjAyMjA1MDVfNzMg/MDAxNjUxNzMzMDU0NDQw.5znUwtLycsFQO_vuuTp3DFwxDb1FQHIYm-J4GlzekBog.CNo5FN8B76J8JZQyklC21zSIwE6h4EFcgOZJ5LRYBAsg.JPEG.tdj04131/KakaoTalk_20220505_154310321.jpg?type=w773" height = 500></td>
+        <td><img src = "https://postfiles.pstatic.net/MjAyMjA1MDVfMjA3/MDAxNjUxNzMzMDU0ODMz.LZH1FX5zQqHr362_yTqW-TPfqBN1YfCPPN16VN6Cb6wg.KdYMFYAzPtLf3Dj0rA-1z9y0D1etaQS1rr5mrymovS0g.JPEG.tdj04131/KakaoTalk_20220505_154310321_01.jpg?type=w773" height = 500></td>
+      </table>
   </div>
