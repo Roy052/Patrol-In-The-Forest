@@ -35,7 +35,7 @@
   </div>
   <div>
     <h2> What I can fix </h2>
-      Too few interactiion elements.<br><br>
+      Too few interaction elements.<br><br>
       Tough Dialogue System.(Not smooth)
    <h2> Design Picture </h2>
    <table>
