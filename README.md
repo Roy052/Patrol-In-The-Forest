@@ -27,6 +27,10 @@
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTIwODgwMC84ODQxODEwLnBuZw==/347x500/Jflrh4.png"></td>
       </table>
   </div>
+   <div>
+    <h2> Game Play Video </h2>
+    https://youtu.be/hjdh5H0hcPY
+  </div>
   <div>
     <h2> What I learned </h2>
       I made Dialogue System and Task System<br><br>
