@@ -1,26 +1,26 @@
 # Patrol In The Forest
  <div>
-    <h2> Game Info </h2>
+    <h2> 게임 정보 </h2>
     <img src = "https://img.itch.zone/aW1nLzgxNzEwMjYucG5n/315x250%23c/6pCXUE.png"><br>
     <img src="https://img.shields.io/badge/Unity-yellow?style=flat-square&logo=Unity&logoColor=FFFFFF"/>
     <img src="https://img.shields.io/badge/Horror-black"/>
-    <h4> Development : 2021.09 <br><br>
-    Play Here : https://goodstarter.itch.io/patrol-in-the-forest
+    <h4> 개발 일자 : 2021.09 <br><br>
+    플레이 : https://goodstarter.itch.io/patrol-in-the-forest
     
   </div>
   <div>
-    <h2> Game Description </h2>
-    <h3> Story </h3>
-     It is inspired by つぐのひ.<br><br>
-     You are a detective who moves to prevent ritual.<br><br>
-     You noticed that this ritual would take place during the Great Alignment and would bring about a huge disaster.<br><br>
-     Keep moving!
-    <h3> Game Play </h3>
-     You can move through the W,D or <-> key.<br><br>
-     Interact with the Mouse Click. 
+    <h2> 게임 설명 </h2>
+    <h3> 스토리 </h3>
+     つぐのひ(이은날)에서 영감을 받은 게임이다.<br><br>
+     당신은 사건 때문에 숲을 찾은 탐정이다.<br><br>
+     그러던 중 이상한 의식이 펼쳐지는 것을 발견하게 되고 이를 막기 위해 정기적으로 순찰을 돈다.<br><br>
+     계속 움직여야 한다!
+    <h3> 게임 플레이 </h3>
+     W,D 혹은 <-> 키를 이용해 좌우로 움직인다.<br><br>
+     마우스 왼쪽 클릭으로 상호작용 한다.
   </div>
   <div>
-    <h2> Game Screenshots </h2>
+    <h2> 게임 스크린샷 </h2>
       <table>
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTIwODgwMC84ODQxODA4LnBuZw==/347x500/wiDizB.png"></td>
         <td><img src = "https://img.itch.zone/aW1hZ2UvMTIwODgwMC84ODQxODA5LnBuZw==/347x500/dvHOrU.png"></td>
@@ -28,19 +28,18 @@
       </table>
   </div>
    <div>
-    <h2> Game Play Video </h2>
+    <h2> 게임 플레이 영상 </h2>
     https://youtu.be/hjdh5H0hcPY
   </div>
   <div>
-    <h2> What I learned </h2>
-      I made Dialogue System and Task System<br><br>
-      To make them, I learned about coroutine.<br><br>
-      And I learned about animations.(Animator and Animation)
+    <h2> 배운 점 </h2>
+      대사와 행동 시스템을 만들었다.(대사 출력 Coroutine과 대사 Skip Button)<br><br>
+      Unity 기능을 이용해 애니메이션을 만들었다.(Animator and Animation)
   </div>
   <div>
-    <h2> What I can fix </h2>
-      Too few interaction elements.<br><br>
-      Tough dialogue system.(Not smooth)
+    <h2> 수정할 점 </h2>
+      상호작용할 수 있는 요소가 너무 적다.<br><br>
+      대사 시스템이 부드럽지 못하다(여러 대사가 한꺼번에 나오거나, 스킵 버튼을 여러번 누를 경우)
    <h2> Design Picture </h2>
    <table>
         <td><img src = "https://postfiles.pstatic.net/MjAyMjA1MDVfNzMg/MDAxNjUxNzMzMDU0NDQw.5znUwtLycsFQO_vuuTp3DFwxDb1FQHIYm-J4GlzekBog.CNo5FN8B76J8JZQyklC21zSIwE6h4EFcgOZJ5LRYBAsg.JPEG.tdj04131/KakaoTalk_20220505_154310321.jpg?type=w773" height = 500></td>
